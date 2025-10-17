@@ -82,7 +82,11 @@ It serves as the **backend infrastructure for a clinic**, allowing:
 - 🗓 Appointments to be created, viewed, or canceled  
 
 🧠 It highlights **RESTful API principles**, **CRUD operations**, and **secure data handling** through **environment variables** and **MongoDB Atlas** integration.
+---
+## 🧩 Environment Variables
 
+- **MONGO_URI**  
+- **PORT**
 ---
 
 ## ✨ Key Features
